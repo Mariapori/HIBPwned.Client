@@ -183,7 +183,7 @@
     "/Users/mariapori/.nuget/packages/": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/HIBPwned.Client.csproj",
       "projectName": "HIBPwned.Client",

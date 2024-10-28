@@ -378,7 +378,7 @@
           }
         }
       },
-      "HIBPwned.Client/1.0.0": {
+      "HIBPwned.Client/1.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
@@ -981,7 +981,7 @@
         "version.txt"
       ]
     },
-    "HIBPwned.Client/1.0.0": {
+    "HIBPwned.Client/1.0.1": {
       "type": "project",
       "path": "../HIBPwned.Client/HIBPwned.Client.csproj",
       "msbuildProject": "../HIBPwned.Client/HIBPwned.Client.csproj"
@@ -989,7 +989,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "HIBPwned.Client >= 1.0.0",
+      "HIBPwned.Client >= 1.0.1",
       "Microsoft.NET.Test.Sdk >= 17.8.0",
       "NUnit >= 3.14.0",
       "NUnit.Analyzers >= 3.9.0",

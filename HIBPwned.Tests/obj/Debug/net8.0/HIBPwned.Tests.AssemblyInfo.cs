@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HIBPwned.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa0a0dbe5728c95f44128e2b9fb8088e245f415e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d239ca7efd88dd5825a12c05bfec82eaa4b4c61e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HIBPwned.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HIBPwned.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
