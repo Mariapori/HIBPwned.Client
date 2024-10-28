@@ -27,4 +27,4 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
     - name: Upload nuget
-      run: nuget push /home/runner/work/HIBPwned.Client/HIBPwned.Client/HIBPwned.Client/bin/Debug/*.nupkg ${{ secrets.NUGET_API }} -SkipDuplicate
+      run: nuget push /home/runner/work/HIBPwned.Client/HIBPwned.Client/HIBPwned.Client/bin/Debug/*.nupkg ${{ secrets.NUGET_API }} -SkipDuplicate -src https://api.nuget.org/v3/index.json
