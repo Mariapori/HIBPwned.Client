@@ -26,3 +26,5 @@ jobs:
       run: dotnet build --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
+    - name: Upload nuget
+      run: nuget push /HIBPwned.Client/bin/Debug/*.nupkg -SkipDuplicate -ApiKey ${{ secrets.NUGET_API }}
