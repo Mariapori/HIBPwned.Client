@@ -8,7 +8,7 @@
     <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
     <readme>README.md</readme>
     <description>Package Description</description>
-    <repository type="git" commit="96d436211c09090f2462800705920fb6e077847e" />
+    <repository type="git" commit="fa0a0dbe5728c95f44128e2b9fb8088e245f415e" />
     <dependencies>
       <group targetFramework=".NETStandard2.0" />
     </dependencies>
