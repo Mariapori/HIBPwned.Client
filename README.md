@@ -6,6 +6,13 @@
 
 Add this class library to your project by including the `HIBPwned.cs` file. Ensure that your project has access to `System.Net.Http`, `System.Linq`, `System.Security.Cryptography`, and `System.Text`.
 
+Or
+
+dotnet add package HIBPwned.Client
+
+https://www.nuget.org/packages/HIBPwned.Client/
+
+
 ## Usage
 
 Here's an example of how to use the `IsPasswordPwned` method in your application:
