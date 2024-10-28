@@ -8,6 +8,12 @@
     <Company>Topias Mariapori</Company>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="LICENSE" Pack="true" Visible="false" PackagePath=""/>
+    <None Include="README.md" Pack="true" Visible="false" PackagePath=""/>
+  </ItemGroup>
 
 </Project>

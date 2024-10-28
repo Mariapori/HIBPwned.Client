@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Topias Mariapori")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+266820266d4c5daf67bcc241f8e5bdd61d1dd85c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96d436211c09090f2462800705920fb6e077847e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HIBPwned.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HIBPwned.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

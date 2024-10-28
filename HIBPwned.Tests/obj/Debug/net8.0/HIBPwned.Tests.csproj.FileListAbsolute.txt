@@ -99,3 +99,4 @@
 /Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Tests/obj/Debug/net8.0/HIBPwned.Tests.pdb
 /Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Tests/obj/Debug/net8.0/HIBPwned.Tests.genruntimeconfig.cache
 /Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Tests/obj/Debug/net8.0/ref/HIBPwned.Tests.dll
+/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Tests/obj/Debug/net8.0/HIBPwned.Tests.sourcelink.json

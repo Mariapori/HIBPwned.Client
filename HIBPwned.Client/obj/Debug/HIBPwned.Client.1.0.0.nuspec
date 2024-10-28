@@ -14,8 +14,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/bin/Release/netstandard2.0/HIBPwned.Client.dll" target="lib/netstandard2.0/HIBPwned.Client.dll" />
+    <file src="/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/bin/Debug/netstandard2.0/HIBPwned.Client.dll" target="lib/netstandard2.0/HIBPwned.Client.dll" />
     <file src="/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/LICENSE" target="LICENSE" />
-    <file src="/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/README.md" target="README.md" />
   </files>
 </package>
