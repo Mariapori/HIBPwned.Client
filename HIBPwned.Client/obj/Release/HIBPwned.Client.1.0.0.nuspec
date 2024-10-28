@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HIBPwned.Client</id>
+    <version>1.0.0</version>
+    <authors>Topias Mariapori</authors>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
+    <description>Package Description</description>
+    <repository type="git" commit="266820266d4c5daf67bcc241f8e5bdd61d1dd85c" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/bin/Release/netstandard2.0/HIBPwned.Client.dll" target="lib/netstandard2.0/HIBPwned.Client.dll" />
+  </files>
+</package>

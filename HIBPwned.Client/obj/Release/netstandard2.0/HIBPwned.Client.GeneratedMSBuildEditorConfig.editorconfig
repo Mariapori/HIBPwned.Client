@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = HIBPwned.Client
+build_property.ProjectDir = /Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,11 @@
+/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/bin/Release/netstandard2.0/HIBPwned.Client.deps.json
+/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/bin/Release/netstandard2.0/HIBPwned.Client.dll
+/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/bin/Release/netstandard2.0/HIBPwned.Client.pdb
+/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/obj/Release/netstandard2.0/HIBPwned.Client.csproj.AssemblyReference.cache
+/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/obj/Release/netstandard2.0/HIBPwned.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/obj/Release/netstandard2.0/HIBPwned.Client.AssemblyInfoInputs.cache
+/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/obj/Release/netstandard2.0/HIBPwned.Client.AssemblyInfo.cs
+/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/obj/Release/netstandard2.0/HIBPwned.Client.csproj.CoreCompileInputs.cache
+/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/obj/Release/netstandard2.0/HIBPwned.Client.sourcelink.json
+/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/obj/Release/netstandard2.0/HIBPwned.Client.dll
+/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/obj/Release/netstandard2.0/HIBPwned.Client.pdb

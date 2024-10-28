@@ -8,3 +8,4 @@
 /Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/obj/Debug/netstandard2.0/HIBPwned.Client.csproj.CoreCompileInputs.cache
 /Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/obj/Debug/netstandard2.0/HIBPwned.Client.dll
 /Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/obj/Debug/netstandard2.0/HIBPwned.Client.pdb
+/Users/mariapori/Projektit/HIBPwned.Client/HIBPwned.Client/obj/Debug/netstandard2.0/HIBPwned.Client.sourcelink.json
