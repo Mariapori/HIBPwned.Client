@@ -9,6 +9,10 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/Mariapori/HIBPwned.Client</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageProjectUrl>https://github.com/Mariapori/HIBPwned.Client</PackageProjectUrl>
+    <Copyright>Topias Mariapori</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
